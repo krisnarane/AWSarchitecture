@@ -1,0 +1,58 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 OPR/120.0.0.0" version="28.1.2">
+  <diagram name="Página-1" id="FYqhoamfVeptjdHhNLTC">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="1">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="us-UskLDHtqsXbpNX3MY-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#736CA8;fontColor=#1A1A1A;" edge="1" parent="1" source="us-UskLDHtqsXbpNX3MY-2" target="us-UskLDHtqsXbpNX3MY-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="us-UskLDHtqsXbpNX3MY-2" value="User" style="html=1;whiteSpace=wrap;strokeColor=none;fillColor=#5D7F99;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;align=center;fontSize=12;outlineConnect=0;spacingTop=-6;fontColor=#1A1A1A;sketch=0;shape=mxgraph.sitemap.user;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="450" y="337.5" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="us-UskLDHtqsXbpNX3MY-3" value="Sistema de Arquivos +&lt;div&gt;AWS CLI&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;fillColor=#5D7F99;strokeColor=#D0CEE2;fontColor=#1A1A1A;" vertex="1" parent="1">
+          <mxGeometry x="455" y="387.5" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="us-UskLDHtqsXbpNX3MY-4" value="&lt;div&gt;&lt;b style=&quot;background-color: transparent; color: light-dark(rgb(26, 26, 26), rgb(215, 215, 215));&quot;&gt;Upload Arquivo.csv&lt;/b&gt;&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;verticalAlign=top;fillColor=#5D7F99;strokeColor=none;fontColor=#1A1A1A;spacingTop=-6;sketch=0;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="160" y="337.5" width="70" height="47.5" as="geometry" />
+        </mxCell>
+        <mxCell id="us-UskLDHtqsXbpNX3MY-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#736CA8;fontColor=#1A1A1A;" edge="1" parent="1" source="us-UskLDHtqsXbpNX3MY-6" target="us-UskLDHtqsXbpNX3MY-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="us-UskLDHtqsXbpNX3MY-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#736CA8;fontColor=#1A1A1A;" edge="1" parent="1" source="us-UskLDHtqsXbpNX3MY-6" target="us-UskLDHtqsXbpNX3MY-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="us-UskLDHtqsXbpNX3MY-6" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.s3;fillColor=#E05243;gradientColor=none;strokeColor=#D0CEE2;fontColor=#1A1A1A;" vertex="1" parent="1">
+          <mxGeometry x="156.75" y="100" width="76.5" height="93" as="geometry" />
+        </mxCell>
+        <mxCell id="us-UskLDHtqsXbpNX3MY-9" value="Amazon S3" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#1A1A1A;" vertex="1" parent="1">
+          <mxGeometry x="150" y="70" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="us-UskLDHtqsXbpNX3MY-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#736CA8;fontColor=#1A1A1A;" edge="1" parent="1" source="us-UskLDHtqsXbpNX3MY-10" target="us-UskLDHtqsXbpNX3MY-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="us-UskLDHtqsXbpNX3MY-10" value="Trigger" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#1A1A1A;" vertex="1" parent="1">
+          <mxGeometry x="286.75" y="110" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="us-UskLDHtqsXbpNX3MY-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#736CA8;fontColor=#1A1A1A;" edge="1" parent="1" source="us-UskLDHtqsXbpNX3MY-14" target="us-UskLDHtqsXbpNX3MY-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="us-UskLDHtqsXbpNX3MY-14" value="AWS Lambda" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.lambda;" vertex="1" parent="1">
+          <mxGeometry x="426.75" y="74" width="80" height="102" as="geometry" />
+        </mxCell>
+        <mxCell id="us-UskLDHtqsXbpNX3MY-16" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.dynamo_db;fillColor=#2E73B8;gradientColor=none;strokeColor=#D0CEE2;fontColor=#1A1A1A;" vertex="1" parent="1">
+          <mxGeometry x="596.75" y="74" width="72" height="81" as="geometry" />
+        </mxCell>
+        <mxCell id="us-UskLDHtqsXbpNX3MY-18" value="Dynamo BD" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#1A1A1A;" vertex="1" parent="1">
+          <mxGeometry x="587.75" y="155" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="us-UskLDHtqsXbpNX3MY-24" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;strokeColor=light-dark(#D0CEE2,#FFFFFF);fontColor=#1A1A1A;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-20" y="-32.75" width="830" height="322.75" as="geometry" />
+        </mxCell>
+        <mxCell id="us-UskLDHtqsXbpNX3MY-25" value="&lt;b&gt;&lt;font face=&quot;Comic Sans MS&quot; style=&quot;font-size: 18px;&quot;&gt;Cloud AWS&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#1A1A1A;" vertex="1" parent="1">
+          <mxGeometry x="256.75" width="120" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
