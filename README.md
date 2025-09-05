@@ -28,11 +28,7 @@ Este projeto apresenta **duas arquiteturas**:
 
 ```mermaid
 %% Diagrama: Processamento de CSV via Lambda
----
-config:
-	layout: dagre
----
-flowchart TB
+graph TD
 	subgraph subGraph0["Ambiente Local"]
 		A@{ label: "<i class='fas fa-user' style='color:#FF9900'></i> Usuário / Sistema de Arquivos" }
 		B("Arquivo.csv")
